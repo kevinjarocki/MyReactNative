@@ -14,4 +14,9 @@
       "**/*"
     ]
   }
+  ,
+    "android": {
+      "package": "com.kevinjarocki.carfaxpoc",
+      "versionCode": 1
+    }
 }
